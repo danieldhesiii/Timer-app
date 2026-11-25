@@ -318,8 +318,8 @@ function App() {
         <h3>Sounds and vibration</h3>
         <p>
           Check your device volume. Vibration is optional and is unavailable in
-          iPhone Safari. The speaker button lets you check sound before a
-          session.
+          iPhone Safari. Use Test sound in the builder to check your volume
+          before a session.
         </p>
       </div>
     </Modal>
